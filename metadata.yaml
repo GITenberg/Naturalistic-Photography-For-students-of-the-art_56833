@@ -1,5 +1,8 @@
 _repo: Naturalistic-Photography-For-students-of-the-art_56833
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56833-h/images/cover.jpg
 creator:
   author:
     agent_name: Emerson, P. H. (Peter Henry)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '2844'
     url: http://www.gutenberg.org/2009/agents/2844
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56833#Naturalistic-Photography-For-students-of-the-art
 gutenberg_issued: '2018-03-24'
 gutenberg_type: Text
 identifiers:
